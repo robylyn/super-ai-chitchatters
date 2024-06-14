@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163344920885",
+    "project_id": "eryns-ai-friend",
+    "storage_bucket": "eryns-ai-friend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163344920885:android:591ec7d3c7306e436a9c7c",
+        "android_client_info": {
+          "package_name": "com.example.eryns_ai_friend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5r7270n2e-WE4pLQFQwFzP8TuAmCBCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
