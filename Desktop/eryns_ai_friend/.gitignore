@@ -43,3 +43,23 @@ app.*.map.json
 /android/app/release
 
 .fake
+
+# macOS system files
+.DS_Store
+.localized
+
+# Node.js dependencies
+node_modules/
+
+# Python virtual environments
+myenv/
+eryns_ai_venv/
+
+# Flutter specific
+.flutter/
+.dart_tool/
+.packages
+pubspec.lock
+
+# Visual Studio Code
+.vscode/
