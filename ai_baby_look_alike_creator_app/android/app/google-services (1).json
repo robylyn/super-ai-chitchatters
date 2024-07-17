@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027357366510",
+    "project_id": "ai-baby-look-alike-creator-app",
+    "storage_bucket": "ai-baby-look-alike-creator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027357366510:android:bcc7c5132db3adc07efbff",
+        "android_client_info": {
+          "package_name": "com.yourcompany.aibabylookalikecreator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ04JY4lbH50eC0d86KpedN_CHolSlJ5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
